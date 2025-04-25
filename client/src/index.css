@@ -1,0 +1,98 @@
+@import "tailwindcss";
+
+@font-face {
+    font-family: 'Brother';
+    src: url('/fonts/brother.otf') format('opentype');
+    font-weight: normal;
+    font-style: normal;
+  }
+
+  @font-face {
+    font-family: 'Ravors';
+    src: url('/fonts/Ravors.otf') format('opentype');
+    font-weight: normal;
+    font-style: normal;
+  }
+  @font-face {
+    font-family: 'Tokyo';
+    src: url('/fonts/tokyodreams.ttf') format('truetype');
+    font-weight: normal;
+    font-style: bold;
+  }
+
+  @font-face {
+    font-family: 'Nature';
+    src: url('/fonts/nature.ttf') format('truetype');
+    font-weight: normal;
+  }
+
+  @font-face {
+    font-family: 'Angelia';
+    src: url('/fonts/angelia.otf') format('opentype');
+    font-weight: normal;
+    font-style: bold;
+  }
+
+  @font-face{
+    font-family: 'IBM';
+    src: url('/fonts/ibm.ttf') format('truetype');
+    font-weight: normal;
+    font-style: bold;
+  }
+
+  @font-face{
+    font-family: 'Nepali';
+    src: url('/fonts/nepali.ttf') format('truetype');
+    font-weight: normal;
+    font-style: bold;
+  }
+
+  
+  @font-face{
+    font-family: 'Milan';
+    src: url('/fonts/Milan.otf') format('opentype');
+    font-weight: normal;
+    font-style: bold;
+  }
+
+  @font-face{
+    font-family: 'Navara';
+    src: url('/fonts/navara.otf') format('opentype');
+    font-weight: normal;
+  }
+
+.navara-font{
+    font-family: 'Navara';
+ }
+
+.ibm-font{
+    font-family: 'IBM';
+}
+.brother-font{
+    font-family: 'Brother';
+}
+
+.ravors-font{
+    font-family: 'Ravors';
+}
+
+.tokyo-font{
+    font-family: 'Tokyo';
+}
+
+.nature-font{
+    font-family: 'Nature';
+}
+
+.angelia-font{
+    font-family: 'Angelia';
+}
+
+.milak-font{
+  font-family: 'Milan';
+}
+
+
+.nepali-font{
+  font-family: 'Nepali';
+}
