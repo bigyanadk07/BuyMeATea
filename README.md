@@ -10,7 +10,6 @@ receive support and donations
 This project is used by the following companies:
 
 - Sera Corporation
-- Wisdom Technologies
 
 
 ## Support
