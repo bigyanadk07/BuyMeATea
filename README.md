@@ -21,10 +21,6 @@ For support, email bigyanadk07@gmail.com.
 
 
 
-## Snippets
-
-
-
 
 ## Installation
 
